@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "single-spa": "^6.0.2",
+    "vite-plugin-externalize-dependencies": "^1.0.1",
     "vite-plugin-single-spa": "^0.7.0"
   }
 }

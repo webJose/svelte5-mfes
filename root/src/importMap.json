@@ -1,0 +1,6 @@
+{
+    "imports": {
+        "@mfe/mfe1": "http://localhost:4101/spa.js",
+        "@mfe/utils": "http://localhost:4100/utils.js"
+    }
+}

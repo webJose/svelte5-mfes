@@ -1,0 +1,7 @@
+{
+    "imports": {
+        "svelte": "https://unpkg.com/svelte@5.0.0-next.245",
+        "svelte/": "https://unpkg.com/svelte@5.0.0-next.245/src/",
+        "esm-env": "https://unpkg.com/esm-env/prod-browser.js"
+    }
+}
