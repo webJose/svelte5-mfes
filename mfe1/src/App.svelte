@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { preferences } from 'http://localhost:4100/src/utils.ts';
+  import { preferences } from '@mfe/utils';
   import consoleSshot from './assets/console-screenshot.png';
 
   // Logging the value property reveals it is a proxy, so one imagines it is reactive.

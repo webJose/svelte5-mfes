@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "@wjfe/single-spa-svelte": "^0.4.0",
+    "vite-plugin-externalize-dependencies": "^1.0.1",
     "vite-plugin-single-spa": "^0.7.0"
   }
 }
